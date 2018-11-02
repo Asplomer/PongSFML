@@ -29,7 +29,7 @@
 *.exe
 *.out
 *.app
-SideScroller/bin/**
-SideScroller/obj/**
-SideScroller/.vs/**
-SideScroller/SideScroller/x64/**
+PongSFMLDesarrollo1/bin/**
+PongSFMLDesarrollo1/obj/**
+PongSFMLDesarrollo1/.vs/**
+PongSFMLDesarrollo1/PongSFMLDesarrollo1/x64/**
