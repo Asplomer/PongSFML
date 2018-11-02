@@ -126,10 +126,12 @@ xcopy "$(SolutionDir)lib\SFML-2.5.1\bin\sfml-system-2.dll" "$(TargetDir)"</Comma
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ball.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Ball.h" />
     <ClInclude Include="Game.h" />
     <ClInclude Include="SFMLScreen.h" />
   </ItemGroup>
