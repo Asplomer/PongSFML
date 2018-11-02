@@ -29,7 +29,7 @@
 *.exe
 *.out
 *.app
-PongSFMLDesarrollo1/bin/**
-PongSFMLDesarrollo1/obj/**
-PongSFMLDesarrollo1/.vs/**
+PongSFMLDesarrollo1/PongSFMLDesarrollo1/bin/**
+PongSFMLDesarrollo1/PongSFMLDesarrollo1/obj/**
+PongSFMLDesarrollo1/PongSFMLDesarrollo1/.vs/**
 PongSFMLDesarrollo1/PongSFMLDesarrollo1/x64/**
